@@ -4,7 +4,7 @@
 
 ![3344221](https://user-images.githubusercontent.com/56477695/121499087-bb2e4e80-c9e5-11eb-9ade-693a88c6835b.jpg)
 
-## Portfolio-2 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/Hexagons/index.html
 
@@ -69,4 +69,3 @@
 ### https://vladimirsaenko.github.io/Hexagon-CircleForm-site/
 
 ### }
-
