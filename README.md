@@ -58,6 +58,16 @@
 
 ### }
 
+## Hexagon-CircleForm-site {
+
+### https://github.com/VladimirSaenko/Hexagon-CircleForm-site
+
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-3/Hexagon-CircleForm-site/index.html
+
+### https://vladimirsaenko.github.io/Hexagon-CircleForm-site/
+
+### }
+
 ## Hexagon-FormX-site {
 
 ### https://vladimirsaenko.github.io/Hexagon-FormX-site/
@@ -68,12 +78,3 @@
 
 ### }
 
-## Hexagon-CircleForm-site {
-
-### https://github.com/VladimirSaenko/Hexagon-CircleForm-site
-
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-3/Hexagon-CircleForm-site/index.html
-
-### https://vladimirsaenko.github.io/Hexagon-CircleForm-site/
-
-### }
