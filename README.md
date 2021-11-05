@@ -32,6 +32,8 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/sites/s3/index.html
 
+### https://codepen.io/vladimirsaenko/pen/abyYbed
+
 ### }
 
 ## 4-сайт {
@@ -39,6 +41,8 @@
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s4/index.html
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/sites/s4/index.html
+
+### https://codepen.io/vladimirsaenko/pen/porLoMB
 
 ### }
 
@@ -48,6 +52,8 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/sites/s5/index.html
 
+### https://codepen.io/vladimirsaenko/pen/xxqBzQj
+
 ### }
 
 ## 6-сайт- Hexagon-FormX-site {
@@ -55,6 +61,8 @@
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s6/index.html
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/sites/s6/index.html
+
+### https://codepen.io/vladimirsaenko/pen/GRWzaEa
 
 ### }
 
@@ -66,6 +74,8 @@
 
 ### https://vladimirsaenko.github.io/Hexagon-CircleForm-site/
 
+### https://codepen.io/vladimirsaenko/pen/xxqBzQj
+
 ### }
 
 ## Hexagon-FormX-site {
@@ -76,4 +86,20 @@
 
 ### https://github.com/VladimirSaenko/Hexagon-FormX-site
 
+### https://codepen.io/vladimirsaenko/pen/GRWzaEa
+
 ### }
+
+## Codepens {
+
+### https://codepen.io/vladimirsaenko/pen/abyYbed
+
+### https://codepen.io/vladimirsaenko/pen/porLoMB
+
+### https://codepen.io/vladimirsaenko/pen/xxqBzQj
+
+### https://codepen.io/vladimirsaenko/pen/GRWzaEa
+
+### }
+
+
