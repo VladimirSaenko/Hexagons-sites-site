@@ -46,7 +46,7 @@
 
 ### }
 
-## 5-сайт- Hexagon-CircleForm-site {
+## 5-сайт-Hexagon-CircleForm-site {
 
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s5/index.html
 
@@ -56,7 +56,7 @@
 
 ### }
 
-## 6-сайт- Hexagon-FormX-site {
+## 6-сайт-Hexagon-FormX-site {
 
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s6/index.html
 
@@ -101,5 +101,3 @@
 ### https://codepen.io/vladimirsaenko/pen/GRWzaEa
 
 ### }
-
-
