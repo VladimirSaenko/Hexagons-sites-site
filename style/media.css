@@ -1,6 +1,4 @@
-
 @media screen and (min-width: 300px) and (max-width: 800px) {
-
     .maincontainer {
         display: flex;
         flex-direction: column;
