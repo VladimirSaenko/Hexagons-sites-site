@@ -28,6 +28,8 @@
 
 ## 3-сайт {
 
+### https://github.com/VladimirSaenko/hexagons-site1
+
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s3/index.html
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/sites/s3/index.html
@@ -37,6 +39,8 @@
 ### }
 
 ## 4-сайт {
+
+### https://github.com/VladimirSaenko/hexagons-site2
 
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s4/index.html
 
