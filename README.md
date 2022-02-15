@@ -1,6 +1,6 @@
 # Hexagons-sites-site
  
-### Сайт с шестиугольниками
+## Сайт с шестиугольниками
 
 ![3344221](https://user-images.githubusercontent.com/56477695/121499087-bb2e4e80-c9e5-11eb-9ade-693a88c6835b.jpg)
 
@@ -50,7 +50,7 @@
 
 ### }
 
-## 5-сайт-Hexagon-CircleForm-site {
+## 5-сайт: Hexagon-CircleForm-site {
 
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s5/index.html
 
@@ -60,7 +60,7 @@
 
 ### }
 
-## 6-сайт-Hexagon-FormX-site {
+## 6-сайт: Hexagon-FormX-site {
 
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s6/index.html
 
