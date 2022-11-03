@@ -73,12 +73,17 @@ span {
     .slider {
         height: 100vh;
         flex-direction: column;
+        overflow: visible;
     }
     
     .item {
         width: 100%;
         user-select: none;
         cursor: none;
+    }
+
+    .item-h {
+        display: none;
     }
     
     .item:hover {
