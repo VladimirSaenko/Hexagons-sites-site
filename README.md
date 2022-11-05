@@ -64,7 +64,7 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/sites/s6/index.html
 
-### https://codepen.io/vladimirsaenko/pen/GRWzaEa
+### https://codepen.io/vladimirsaenko/pen/bGMZLOY 
 
 ### }
 
@@ -100,6 +100,6 @@
 
 ### https://codepen.io/vladimirsaenko/pen/xxqBzQj
 
-### https://codepen.io/vladimirsaenko/pen/GRWzaEa
+### https://codepen.io/vladimirsaenko/pen/bGMZLOY
 
 ### }
