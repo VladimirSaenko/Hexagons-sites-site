@@ -1,6 +1,4 @@
 # Hexagons-sites-site
- 
-## Сайт с шестиугольниками
 
 ## Portfolio {
 
@@ -8,7 +6,7 @@
 
 ### }
 
-## 1-сайт {
+## Hexagons site 1 {
 
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s1/index.html
 
@@ -16,7 +14,7 @@
 
 ### }
 
-## 2-сайт {
+## Hexagons site 2 {
 
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s2/index.html
 
@@ -24,7 +22,7 @@
 
 ### }
 
-## 3-сайт {
+## Hexagons site 3 {
 
 ### https://github.com/VladimirSaenko/hexagons-site1
 
@@ -36,7 +34,7 @@
 
 ### }
 
-## 4-сайт {
+## Hexagons site 2 {
 
 ### https://github.com/VladimirSaenko/hexagons-site2
 
@@ -48,7 +46,7 @@
 
 ### }
 
-## 5-сайт: Hexagon-CircleForm-site {
+## Hexagon-CircleForm-site {
 
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s5/index.html
 
@@ -58,7 +56,7 @@
 
 ### }
 
-## 6-сайт: Hexagon-FormX-site {
+## Hexagon-FormX-site {
 
 ### https://vladimirsaenko.github.io/Hexagons-sites-site/sites/s6/index.html
 
